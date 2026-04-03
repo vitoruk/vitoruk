@@ -1,7 +1,14 @@
-# 💫 About Me:
-# 👨‍💻 Luan Vitor — Desenvolvedor Pleno | Founder Alpha Connect<br><br>Meu nome é **Luan Vitor**, tenho **28 anos** e atuo como **Desenvolvedor Pleno**, especializado na criação de sistemas inteligentes para otimização de processos empresariais, com foco em **logística, operação, automação e escalabilidade**.<br><br>Sou **poliglota** e tive uma experiência internacional que marcou profundamente minha trajetória profissional.<br><br>Realizei um **intercâmbio para a Europa** e morei por **4 anos em Londres**, onde trabalhei como **Logistic Manager**.<br><br>Essa vivência me proporcionou experiência prática em:<br><br>* gestão logística<br>* fluxo operacional<br>* controle de processos<br>* cadeia de suprimentos<br>* eficiência empresarial<br>* gestão de equipes<br><br>Foi nesse período que nasceu minha visão de negócio e minha paixão por desenvolver tecnologia aplicada à operação.<br><br>Ao vivenciar os desafios reais das empresas, identifiquei gargalos manuais e oportunidades claras de melhoria.<br><br>A partir disso, transformei minha missão profissional em:<br><br>**desenvolver sistemas que simplifiquem, automatizem e potencializem os processos internos das empresas.**<br><br>Hoje, # 💫 About Me:
-👨‍💻 Sobre Mim<br><br>Olá, eu sou **Luan Vitor**, tenho **28 anos** e sou **Desenvolvedor Full Stack** de Pernambuco.<br>🌍 Sou poliglota e morei **4 anos em Londres**, onde atuei como **Gerente de Logística**.<br>🚀 Tenho paixão por criar sistemas que otimizam processos empresariais e logísticos.<br>⚖️ Atualmente lidero o **Alpha Connect**, a primeira plataforma centralizada de correspondência jurídica do mundo.<br>
+# 💫 About Me: <br><br>👨‍💻 **Luan Vitor — Desenvolvedor Pleno | Founder Alpha Connect**<br><br>Olá, eu sou **Luan Vitor**, tenho **28 anos** e atuo como **Desenvolvedor Full Stack / Pleno**, especializado na criação de sistemas inteligentes para otimização de processos empresariais, com foco em **logística, automação e escalabilidade**.<br><br>🌍 Sou **poliglota** e morei por **4 anos em Londres**, onde atuei como **Gerente de Logística**, experiência que fortaleceu minha visão estratégica sobre operações, fluxo de processos e eficiência empresarial.<br><br>🚀 Foi a partir dessa vivência que nasceu minha paixão por desenvolver tecnologia aplicada aos negócios, criando sistemas que **simplificam, automatizam e potencializam os processos internos das empresas**.<br><br>⚖️ Atualmente lidero o **Alpha Connect**, a primeira plataforma centralizada de correspondência jurídica do mundo, conectando tecnologia, educação e empregabilidade.<br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vitoruk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vitoruk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoruk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=vitoruk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@vitoruk_) 
