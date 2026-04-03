@@ -1,15 +1,4 @@
 # 💫 About Me: 👨‍💻 Sobre Mim<br><br>Olá, eu sou **Luan Vitor**, tenho **28 anos** e sou **Desenvolvedor Full Stack** de Pernambuco.<br>🌍 Sou poliglota e morei **4 anos em Londres**, onde atuei como **Gerente de Logística**.<br>🚀 Tenho paixão por criar sistemas que otimizam processos empresariais e logísticos.<br>⚖️ Atualmente lidero o **Alpha Connect**, a primeira plataforma centralizada de correspondência jurídica do mundo.<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vitoruk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vitoruk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoruk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=vitoruk&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@vitoruk_) 
 
